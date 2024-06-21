@@ -1,0 +1,100 @@
+body {
+    background-color: greenyellow;
+    color: rgb(10, 61, 12);
+    text-align: center;
+    background-image: url(/imgs/images.jpg); /* Adicione aspas ao redor do caminho da imagem */
+    margin: 0; /* Remova margens padrão */
+    padding: 0; /* Remova padding padrão */
+}
+
+.Galeria {
+    display: flex; /* Adicione display flex para permitir o uso de flexbox */
+    flex-wrap: wrap;
+    justify-content: center;
+    flex-direction: row; 
+    flex-flow: row wrap;
+    margin: auto;
+}
+
+img {
+    width: 300px;
+    height: 200px;
+    border-radius: 5%;
+    box-shadow: 5px 10px 8px 10px rgb(46, 48, 59);
+    margin: 10px; /* Adicione margem para espaçamento entre as imagens */
+}
+
+.animation {
+    transition: transform 0.25s ease-in-out;
+}
+
+.animation:hover {
+    transform: scale(1.15);
+}
+
+h1{
+    text-align: center;
+    color: rgb(255, 255, 255);
+    margin-bottom: 75px;
+    font-size: 45px; 
+    background-color: rgb(14, 121, 14);
+    border-radius: 30px;
+
+}
+
+.imagem-legenda {
+    position: relative;
+    display: inline-block;
+  }
+  
+  .legenda {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: rgba(0, 0, 0, 0.7);
+    color: white;
+    padding: 10px;
+    text-align: center;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+  }
+  
+  .imagem-legenda:hover .legenda {
+    opacity: 1;
+  }
+
+  a {
+    text-decoration: none;
+}
+
+a:hover {
+    cursor: pointer;
+}
+
+p {
+    font-family: 'Arial', sans-serif; /* Substitua 'Arial' pelo nome da fonte desejada */
+    font-size: 20px; /* Tamanho da fonte */
+    font-weight: normal; /* Peso da fonte */
+    line-height: 1.6; /* Altura da linha */
+    color: #0a3d0c; /* Cor do texto */
+    margin: 20px 0; /* Margem superior e inferior */
+    padding: 0 15px; /* Padding lateral */
+}
+
+/* Estilos para o título h3 "Instrumentos presentes na Orquestra" */
+h3 {
+    text-align: center;
+    font-size: 24px;
+    color: #333;
+    margin-bottom: 10px;
+    position: relative;
+}
+
+h3::after {
+    content: " 👇"; /* Adiciona o emoji diretamente após o título */
+    display: block;
+    text-align: center;
+    font-size: 28px;
+    margin-top: 5px;
+}
