@@ -11,8 +11,6 @@
 - Usei códigos para legenda quando você passa o mouse junto da animação , e em alguns intrumentos você clicando na imagem te dereciona para um site para conhecer o instrumento. 🎷
 
   ## ObradeArte 🎶💯
-  - Da uma olhada nele:
-
 
   https://github.com/cauaaoliveira/OrquestraCCB/assets/162700798/21b6abb8-7b2e-4e90-85ba-6c6063de0413
 
