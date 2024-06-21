@@ -1,6 +1,5 @@
 # OrquestraCCB
 - Criei uma especie de galeria de Fotos sobre a parte Musical da Congregação Cristã no Brasil , onde faço parte como moço e sou músico , tenho orgulho de fazer parte.
-- 
 ## SobreoProjeto
 
 - Usei e apliquei os conteudos estudados - CSS - HTML nesse projeto.
