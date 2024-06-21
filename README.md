@@ -3,7 +3,7 @@
 
 ## SobreoProjeto 😎✨
 
-- Usei e apliquei os conteudos estudados - CSS - HTML nesse projeto.
+- Usei e apliquei os conteudos estudados - CSS - HTML por enquanto nesse projeto.
 - Criei uma galeria completa de diversos intrumentos presentes na Maior Orquestra do MUNDO atualmente. 🎶
 - Usei um pouquinho que aprendemos e dei uma pesquisada , sempre melhorando.
 - Estamos mexendo bastante com HTML e CSS ultimamente, foi um dos primeiros projetos.
