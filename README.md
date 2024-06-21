@@ -8,7 +8,7 @@
 - Usei um pouquinho que aprendemos e dei uma pesquisada , sempre melhorando.
 - Estamos mexendo bastante com HTML e CSS ultimamente, foi um dos primeiros projetos.
 - Adicionei 2 vídeos junto a galeria.
-- Usei códigos para legenda quando você passa o mouse junto da animação , e em alguns intrumentos você clicando na imagem te dereciona para um site para conhecer o instrumento. 🎷
+- Usei códigos para legenda quando você passa o mouse junto da animação , e em alguns intrumentos você clicando na imagem te dereciona para um site para conhecer mais sobre cada instrumento. 🎷
 
   ## ObradeArte 🎶💯
 
